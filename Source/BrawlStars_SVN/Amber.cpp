@@ -4,7 +4,6 @@
 #include "Amber.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Components/SceneComponent.h"
-#include "Components/WidgetComponent.h"
 #include "Kismet/KismetMathLibrary.h"
 
 // Sets default values
